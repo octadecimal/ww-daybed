@@ -1,0 +1,129 @@
+BAY-WINDOW DAYBED V4 — BEGINNER CONSTRUCTION DIMENSIONS
+========================================================
+
+LEFT / RIGHT CONVENTION
+Positive X = viewer-left = raised landing/table = no cushion.
+Negative X = viewer-right = lower module beneath continuous center/right cushion.
+
+ARCHITECTURE AND PROVISIONAL GEOMETRY
+Center flat wall: 60.0 in
+Measured interior corner angle: 135.5 degrees
+Measured wall turn: 44.5 degrees
+Hidden structural station assumption: 45.0 degrees
+Measured corner-to-corner reference: 106.0 in
+Finished front plane: Y=32.0 in
+Upper structural front edge: Y=31.5 in
+Lower structural front edge: Y=29.0 in
+Structural upper-to-lower recess: 2.5 in
+Finished-face-to-lower-frame setback: 3.0 in
+Side plywood: FIELD VERIFY — TEMPLATE TO ACTUAL ROOM BEFORE CUTTING
+The displayed ±62-in/45-degree side wedges are design references, not final cut sizes.
+
+CENTER — RESOLVED
+Upper frame: 59 x 31.5 x 1.5 in, Z=8.25..9.75
+Lower frame: 59 x 29 x 1.5 in, Z=0..1.5
+Posts: 10 x 6.75 in, Z=1.5..8.25
+Deck: 60 x 32 x 0.75 in, Z=9.75..10.5
+Resolved cut list: 4 x 59; 5 x 24.5; 4 x 22; 10 x 6.75
+Maximum reported plywood support span: 10.3750 in
+
+VIEWER LEFT — RAISED WOOD LANDING — NO CUSHION
+Finished reference wedge: rear-inner (30,0), front-inner (30,32), front-outer (62,32)
+Finished deck Z=13.75..14.5; upper frame Z=12.25..13.75; posts=10.75 in
+Maximum conservative plywood support span: 12.3137 in
+  UPPER FRAME (8 BOARDS):
+    LEFT_UPPER_REAR_CLOSURE_6.586IN_01: 6.5858 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    LEFT_UPPER_INNER_SPINE_16.500IN_02: 16.5000 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    LEFT_UPPER_TRANSVERSE_16_9.086IN_03: 9.0858 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    LEFT_UPPER_TRANSVERSE_24_17.086IN_04: 17.0858 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    LEFT_UPPER_FRONT_RAIL_26.586IN_05: 26.5858 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    LEFT_UPPER_OUTER_STEP_01_2.500IN_06: 2.5000 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY | closure interface 3.0858 | plywood clearance 3.1820
+    LEFT_UPPER_OUTER_STEP_02_4.500IN_07: 4.5000 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    LEFT_UPPER_OUTER_STEP_03_2.500IN_08: 2.5000 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+  LOWER FRAME (7 BOARDS):
+    LEFT_LOWER_REAR_CLOSURE_6.586IN_01: 6.5858 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    LEFT_LOWER_INNER_SPINE_14.000IN_02: 14.0000 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    LEFT_LOWER_TRANSVERSE_16_9.086IN_03: 9.0858 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    LEFT_LOWER_TRANSVERSE_24_17.086IN_04: 17.0858 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    LEFT_LOWER_LOWER_FRONT_RAIL_24.086IN_05: 24.0858 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    LEFT_LOWER_OUTER_STEP_01_2.500IN_06: 2.5000 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY | closure interface 3.0858 | plywood clearance 3.1820
+    LEFT_LOWER_OUTER_STEP_02_4.500IN_07: 4.5000 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY | ASSEMBLY_SEQUENCE_REQUIRED: FASTEN OUTER_STEP_02 TO TRANSVERSE_24 BEFORE INSTALLING LOWER FRONT RAIL AT Y=25.5–29.0
+  POSTS: 8
+    LEFT_POST_REAR_INNER_3.5X1.5X10.75IN_01: 10.75 in, upper bearing 5.250 sq in, lower bearing 5.250 sq in, screw access=True
+    LEFT_POST_REAR_OUTER_1.5X3.5X10.75IN_02: 10.75 in, upper bearing 5.250 sq in, lower bearing 5.250 sq in, screw access=True
+    LEFT_POST_STATION16_INNER_3.5X1.5X10.75IN_03: 10.75 in, upper bearing 5.250 sq in, lower bearing 5.250 sq in, screw access=True
+    LEFT_POST_STATION16_OUTER_3.5X1.5X10.75IN_04: 10.75 in, upper bearing 5.250 sq in, lower bearing 5.250 sq in, screw access=True
+    LEFT_POST_STATION24_INNER_3.5X1.5X10.75IN_05: 10.75 in, upper bearing 5.250 sq in, lower bearing 5.250 sq in, screw access=True
+    LEFT_POST_STATION24_OUTER_3.5X1.5X10.75IN_06: 10.75 in, upper bearing 5.250 sq in, lower bearing 5.250 sq in, screw access=True
+    LEFT_POST_FRONT_INNER_1.5X3.5X10.75IN_07: 10.75 in, upper bearing 5.250 sq in, lower bearing 5.250 sq in, screw access=True
+    LEFT_POST_FRONT_OUTER_1.5X3.5X10.75IN_08: 10.75 in, upper bearing 5.250 sq in, lower bearing 5.250 sq in, screw access=True
+
+VIEWER RIGHT — LOWER MODULE — CONTINUOUS CUSHION
+Finished reference wedge: rear-inner (-30,0), front-inner (-30,32), front-outer (-62,32)
+Finished deck Z=9.75..10.5; upper frame Z=8.25..9.75; posts=6.75 in
+Maximum conservative plywood support span: 12.3137 in
+  UPPER FRAME (8 BOARDS):
+    RIGHT_UPPER_REAR_CLOSURE_6.586IN_01: 6.5858 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    RIGHT_UPPER_INNER_SPINE_16.500IN_02: 16.5000 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    RIGHT_UPPER_TRANSVERSE_16_9.086IN_03: 9.0858 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    RIGHT_UPPER_TRANSVERSE_24_17.086IN_04: 17.0858 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    RIGHT_UPPER_FRONT_RAIL_26.586IN_05: 26.5858 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    RIGHT_UPPER_OUTER_STEP_01_2.500IN_06: 2.5000 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY | closure interface 3.0858 | plywood clearance 3.1820
+    RIGHT_UPPER_OUTER_STEP_02_4.500IN_07: 4.5000 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    RIGHT_UPPER_OUTER_STEP_03_2.500IN_08: 2.5000 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+  LOWER FRAME (7 BOARDS):
+    RIGHT_LOWER_REAR_CLOSURE_6.586IN_01: 6.5858 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    RIGHT_LOWER_INNER_SPINE_14.000IN_02: 14.0000 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    RIGHT_LOWER_TRANSVERSE_16_9.086IN_03: 9.0858 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    RIGHT_LOWER_TRANSVERSE_24_17.086IN_04: 17.0858 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    RIGHT_LOWER_LOWER_FRONT_RAIL_24.086IN_05: 24.0858 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY
+    RIGHT_LOWER_OUTER_STEP_01_2.500IN_06: 2.5000 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY | closure interface 3.0858 | plywood clearance 3.1820
+    RIGHT_LOWER_OUTER_STEP_02_4.500IN_07: 4.5000 in, SQUARE / 90 DEGREE, PROVISIONAL / FIELD VERIFY | ASSEMBLY_SEQUENCE_REQUIRED: FASTEN OUTER_STEP_02 TO TRANSVERSE_24 BEFORE INSTALLING LOWER FRONT RAIL AT Y=25.5–29.0
+  POSTS: 8
+    RIGHT_POST_REAR_INNER_3.5X1.5X6.75IN_01: 6.75 in, upper bearing 5.250 sq in, lower bearing 5.250 sq in, screw access=True
+    RIGHT_POST_REAR_OUTER_1.5X3.5X6.75IN_02: 6.75 in, upper bearing 5.250 sq in, lower bearing 5.250 sq in, screw access=True
+    RIGHT_POST_STATION16_INNER_3.5X1.5X6.75IN_03: 6.75 in, upper bearing 5.250 sq in, lower bearing 5.250 sq in, screw access=True
+    RIGHT_POST_STATION16_OUTER_3.5X1.5X6.75IN_04: 6.75 in, upper bearing 5.250 sq in, lower bearing 5.250 sq in, screw access=True
+    RIGHT_POST_STATION24_INNER_3.5X1.5X6.75IN_05: 6.75 in, upper bearing 5.250 sq in, lower bearing 5.250 sq in, screw access=True
+    RIGHT_POST_STATION24_OUTER_3.5X1.5X6.75IN_06: 6.75 in, upper bearing 5.250 sq in, lower bearing 5.250 sq in, screw access=True
+    RIGHT_POST_FRONT_INNER_1.5X3.5X6.75IN_07: 6.75 in, upper bearing 5.250 sq in, lower bearing 5.250 sq in, screw access=True
+    RIGHT_POST_FRONT_OUTER_1.5X3.5X6.75IN_08: 6.75 in, upper bearing 5.250 sq in, lower bearing 5.250 sq in, screw access=True
+
+LOCALIZED OUTER_STEP_01 CORRECTION
+Local U footprint: 3.5..7.0 in; length: 2.5 in; square cuts.
+Rear-closure fastening interface: 3.085786 in (minimum 2.75).
+Closest perpendicular plywood-edge clearance: 3.181981 in.
+Inner-spine overlap area: 0.000000 sq in.
+Rear outer posts: 1.5 X by 3.5 Y plan, full direct bearing.
+
+FASTENING
+Ordinary flat-frame joints: nominal 5-in structural screws; two per end only where validated.
+SHORT_RAIL_SINGLE_SCREW_DETAIL: one predrilled nominal 5-in structural screw per end,
+opposing paths staggered 1.5 in, wood glue, clamp during fastening.
+Post connections: nominal 3 to 3-1/8-in structural screws through the 1.5-in flat frame.
+Do not use drywall screws. Baseline V4 requires no angle brackets.
+ASSEMBLY_SEQUENCE_REQUIRED screw paths: 4
+ASSEMBLY_SEQUENCE_REQUIRED: fasten lower OUTER_STEP_02 to TRANSVERSE_24 before
+installing each lower front rail at Y=25.5..29.0.
+
+ANTI-RACKING
+The securely screwed 3/4-in plywood deck is the PRIMARY SHEAR DIAPHRAGM.
+Square the bare stepped frame before installing the deck.
+Orthogonal frame loops assist stiffness but are not rigid diaphragms by themselves.
+
+HEIGHTS
+Viewer-left landing top: 14.5 in
+Center deck top: 10.5 in
+Viewer-right deck top: 10.5 in
+Single center/right cushion: Z=10.5..14.5 in
+Approximate sill underside: 15.0 in
+
+WARNING: SIDE MODULE FRAMING POSITIONS AND FINISHED PLYWOOD ARE PROVISIONAL / FIELD VERIFY.
+TEMPLATE FINISHED SIDE PLYWOOD TO THE ACTUAL ROOM BEFORE CUTTING.
+
+V4 BEGINNER CONSTRUCTION:
+ALL LEFT/RIGHT STRUCTURAL 2x4 CUTS ARE 90-DEGREE SQUARE CUTS.
+THE FINISHED BAY ANGLES ARE CREATED BY PLYWOOD, NOT STRUCTURAL LUMBER.
+LEFT/RIGHT ARE DEFINED FROM THE VIEWER'S PERSPECTIVE FACING THE DAYBED.
+
+VALIDATION: PASSED

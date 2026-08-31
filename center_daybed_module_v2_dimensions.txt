@@ -1,0 +1,49 @@
+CENTER DAYBED MODULE V2 - VALIDATION REPORT
+
+ARCHITECTURAL REFERENCE
+60.000 in flat wall area; 59.000 in structural width; 0.500 in nominal side clearance each side.
+
+UPPER FRAME - FLAT 2x4
+Outside: 59.000 W x 31.500 D x 1.500 H in
+Elevation: Z 8.250 to 9.750 in
+Rails: 2 x 59 in; front-to-back members: 5 x 24.5 in; interior crossmembers: 3
+
+LOWER FRAME - FLAT 2x4
+Outside: 59.000 W x 29.000 D x 1.500 H in
+Elevation: Z 0.000 to 1.500 in
+Rails: 2 x 59 in; front-to-back members: 4 x 22 in; interior crossmembers: 2
+Rear edges aligned: PASS; lower front recess: 2.500 in
+
+VERTICAL POSTS
+10 x 6.750 in posts; 5 rear and 5 front
+Post X positions per row: -27.750, -13.875, 0.000, 13.875, 27.750 in
+Post elevation: Z 1.500 to 8.250 in
+Rear posts fully bear between aligned rear rails: PASS
+Front posts: 1.500 X x 3.500 Y x 6.750 Z in; Y footprint 25.500 to 29.000 in
+Front posts fully bear on lower front rail: PASS
+Front-post upper bearing: 2.500 in under member; 1.000 in under front rail: PASS
+No post exceeds the 59 in structural envelope: PASS
+
+FINISHED HEIGHTS
+Deck: Z 9.750 to 10.500 in; finished wood platform height: 10.500 in
+Approximate cushion top: 14.500 in; approximate sill underside: 15.000 in
+
+STRUCTURAL CHECKS
+Wood-on-wood load path: deck -> upper frame -> posts -> lower frame -> floor
+Positive-volume lumber intersections: NONE (bearing faces allowed)
+Cut totals: 4 x 59 in, 5 x 24.5 in, 4 x 22 in, 10 x 6.75 in
+Front-panel nailers remain above and independent of the recessed lower frame: PASS
+
+FRAME 90-DEGREE JOINTS:
+Flat 2x4 frame: use approximately 5 to 5-1/8 in structural wood screws
+through the 3.5 in-deep front/rear rail into the member end.
+Use two screws per joint where practical. Predrill.
+Wood glue may supplement this connection.
+
+POST CONNECTIONS:
+Use approximately 3 to 3-1/8 in structural wood screws through the
+1.5 in-thick flat upper/lower frame into each vertical post.
+Primary top fastening for front posts passes through the upper front-to-back member
+into the post, not through the upper front rail near its rear edge.
+Wood glue may supplement both connection types.
+Do not use drywall screws. Metal angle brackets are not required.
